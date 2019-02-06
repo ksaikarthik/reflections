@@ -14,3 +14,6 @@ Forks are repositories that we can copy from other public repositories. Clone is
 can create either from an online Github source or from a local repository. Branch is an independent
  copy of the whole repository in the local repository itself.
 
+ What is the benefit of having a copy of the last known state of the remote stored locally?
+ We can do diff check between the latest online version and local repository even when we are offline.
+

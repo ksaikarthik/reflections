@@ -10,3 +10,25 @@ A staging area has files and changes that are not yet committed to the repositor
 Also all the files in the working directory need not be in the staging area.
 Hence staging area is an intermediate stage between a working directory and the repository.
 This helps us to organize the edits and files better.
+
+How can you use the staging area to make sure you have one commit per logical change?
+We can add multiple files to staging area and we can see what files are ready for committing.
+Also we can compare files to be committed with last commit and ensure we are committing the changes we want
+to commit.
+
+What are some situations when branches would be helpful in keeping your history organized?
+How would branches help?
+
+Branches are very helpful in creating multiple versions of the whole repository, and to experiment 
+ideas before making a particular change part of the master branch.
+
+How do the diagrams help you visualize the branch structure?
+Diagrams help in understanding the flow of commits and how the commits are interrelated among them.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+By merging two branches, we get to merge all the changes we have done to a single branch. The diagram helps
+us to visualize that there has been a merger of two branches, and we can still track all the commits that
+are done in the past in the two branches before merger.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merging would be very convenient but it may not give the desirable merger output for a file.

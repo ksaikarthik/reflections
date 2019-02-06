@@ -20,3 +20,9 @@ can create either from an online Github source or from a local repository. Branc
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I would use Google Docs or Dropbox. They are lot easier to use. But I will have very less control on the 
 changes that are to be made and keep track of changes.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits 
+does each approach have?
+Separate branch is a cool idea when I dont want to disturb the master repository, when I am experimenting
+new changes. It gives better control on what changes are proposed are by whom and how and when do they get
+to become part of the master repository.

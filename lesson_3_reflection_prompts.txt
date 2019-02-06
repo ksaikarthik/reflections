@@ -17,3 +17,6 @@ can create either from an online Github source or from a local repository. Branc
  What is the benefit of having a copy of the last known state of the remote stored locally?
  We can do diff check between the latest online version and local repository even when we are offline.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would use Google Docs or Dropbox. They are lot easier to use. But I will have very less control on the 
+changes that are to be made and keep track of changes.
